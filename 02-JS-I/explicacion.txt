@@ -1,0 +1,6 @@
+
+    Variables: las variables es una forma de dar un dato, para luego poder utilizarlo
+    Strings: es para escribir un mensaje, se pone entre comillas ("")
+    Funciones (argumentos, return): permite crear un objeto el cual podemos hacer lo que queramos con el, un argumento es pedirle que es lo que queremos que haga, y un return es lo que esperamos que nos devuelva en situaciones especificas.
+    Declaraciones if: la declaracion if es para cuando necesitamos una situacion especifica que ocurra en la funcion.
+    Valores booleanos (true, false): los booleanos es una forma de preguntar si algo es verdadero o falso.
